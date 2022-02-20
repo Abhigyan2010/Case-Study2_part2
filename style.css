@@ -1,0 +1,12 @@
+body{
+    background-color: dodgerblue;
+    text-align: center;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+h5,h4,b{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+}
